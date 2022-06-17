@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mhcnuggetsr"]
+	path = mhcnuggetsr
+	url = https://github.com/richelbilderbeek/mhcnuggetsr
+	shallow = true
+	registered = true
+[submodule "netmhc2pan"]
+	path = netmhc2pan
+	url = https://github.com/richelbilderbeek/netmhc2pan
+	shallow = true
+	registered = true
+[submodule "pureseqtmr"]
+	path = pureseqtmr
+	url = https://github.com/richelbilderbeek/pureseqtmr
+	shallow = true
+	registered = true

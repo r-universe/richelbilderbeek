@@ -1,0 +1,14 @@
+[
+  {
+    "package": "mhcnuggetsr",
+    "oncran": true
+  },
+  {
+    "package": "netmhc2pan",
+    "oncran": true
+  },
+  {
+    "package": "pureseqtmr",
+    "oncran": true
+  }
+]
