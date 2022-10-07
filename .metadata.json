@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "pirouette",
+    "oncran": true
+  },
+  {
     "package": "pureseqtmr",
     "oncran": true
   }
