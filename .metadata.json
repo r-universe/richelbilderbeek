@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "pirouette",
+    "package": "netmhc2pan",
     "oncran": true
   },
   {
-    "package": "netmhc2pan",
+    "package": "pirouette",
     "oncran": true
   },
   {
