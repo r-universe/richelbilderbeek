@@ -8,14 +8,14 @@
 	url = https://github.com/richelbilderbeek/mhcnuggetsr
 	shallow = true
 	registered = true
-[submodule "netmhc2pan"]
-	path = netmhc2pan
-	url = https://github.com/richelbilderbeek/netmhc2pan
-	shallow = true
-	registered = true
 [submodule "pirouette"]
 	path = pirouette
 	url = https://github.com/richelbilderbeek/pirouette
+	shallow = true
+	registered = true
+[submodule "netmhc2pan"]
+	path = netmhc2pan
+	url = https://github.com/richelbilderbeek/netmhc2pan
 	shallow = true
 	registered = true
 [submodule "pureseqtmr"]
