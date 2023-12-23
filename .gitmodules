@@ -8,9 +8,6 @@
 [submodule "netmhc2pan"]
 	path = netmhc2pan
 	url = https://github.com/richelbilderbeek/netmhc2pan
-[submodule "pirouette"]
-	path = pirouette
-	url = https://github.com/richelbilderbeek/pirouette
 [submodule "pureseqtmr"]
 	path = pureseqtmr
 	url = https://github.com/richelbilderbeek/pureseqtmr
